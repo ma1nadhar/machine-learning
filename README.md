@@ -3,6 +3,6 @@ This repository serves as a showcase of the various machine-learning projects I 
 
 ### LinearRegression
    - Predict energy consumption using linear regression                                                                                                                
-   - We use training data that has time in hours and corresponding energy consumption in kilowatt-hours                                                                                          
-   - Train a linear regression model using sklearn linear regression class
-   - Visualize the results by plotting the original data points along with the fitted regression lines or curves
+   - We use training data that has time in hours and corresponding energy consumption in kilowatt-hours                                                              
+   - Train a linear regression model using sklearn linear regression class                                                                                                                                                                                 
+   - Visualize the results by plotting the original data points along with the fitted regression lines or curves
