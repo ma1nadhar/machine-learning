@@ -6,3 +6,9 @@ This repository serves as a showcase of the various machine-learning projects I 
 + We use training data that has time in hours and corresponding energy consumption in kilowatt-hours                                                              
 + Train a linear regression model using sklearn linear regression class                                                                                                                                                                                 
 + Visualize the results by plotting the original data points along with the fitted regression lines or curves
+
+### PolynomialRegression
++ Performed polynomial regression analysis on time-consumption data using degrees 1 to 5                                                                                                               
++ Evaluated model performance using mean squared error (MSE) for each degree                                                            
++ Identified the best degree with the lowest MSE for the polynomial regression model                                                                                                                                                                            
++ Visualized the original data and predicted line for the best polynomial regression model
